@@ -6,13 +6,8 @@
 
 На тестирование затрачено: 1 час.
 
-В результате тестирования выявлены следующие дефекты:
-* [Программа Credit Card Number Validator не валидирует карту VISA длиной 19 цифр](https://github.com/anvartdinovtimurlinux/CreditCardNumberValidator/issues/1)
-* [Программа Credit Card Number Validator не валидирует карту Discover длиной 19 цифр](https://github.com/anvartdinovtimurlinux/CreditCardNumberValidator/issues/2)
-* [Программа Credit Card Number Validator не валидирует карту JCB длиной 19 цифр](https://github.com/anvartdinovtimurlinux/CreditCardNumberValidator/issues/3)
-* [Программа Credit Card Number Validator не валидирует карту Diners Club - Carte Blanche длиной 14 цифр](https://github.com/anvartdinovtimurlinux/CreditCardNumberValidator/issues/4)
-* [Программа Credit Card Number Validator не валидирует карту Diners Club - International длиной 14 цифр](https://github.com/anvartdinovtimurlinux/CreditCardNumberValidator/issues/5)
-* [Программа Credit Card Number Validator не валидирует карту American Express длиной 13 цифр](https://github.com/anvartdinovtimurlinux/CreditCardNumberValidator/issues/6)
+В результате тестирования выявлены следующий дефект:
+* [Программа Credit Card Number Validator не валидирует карты с количеством цифр в номере, отличающимся от 16](https://github.com/anvartdinovtimurlinux/CreditCardNumberValidator/issues/7)
 
 
 ## Описание процесса тестирования
